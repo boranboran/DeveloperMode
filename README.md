@@ -1,3 +1,32 @@
+<h2>Enable Developer Mode in a strictly managed organization using PowerShell Script in Windows 10 & Windows 11</h2>
+
+![image](https://github.com/boranboran/DeveloperMode/assets/14014747/fa328f46-fe39-47cb-9698-c26c40deb0ae)
+
+<p>To enable Developer Mode in Windows 10 using a PowerShell script, you can follow the steps below:</p>
+
+<p>Save the file after pasting the script.</p>
+
+<p>To execute the script:</p>
+
+<ol>
+  <li>Open PowerShell as an administrator.</li>
+  <li>Navigate to the directory where the script file is located.</li>
+  <li>Run the following command to allow script execution:</li>
+</ol>
+
+<pre><code>Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force</code></pre>
+
+<ol start="4">
+  <li>Execute the script by running the following command in PowerShell:</li>
+</ol>
+
+<pre><code>.\Enable_DeveloperMode.ps1</code></pre>
+
+<p>The script will enable Developer Mode and set the necessary policies to allow development without a developer license.</p>
+
+<p>Please ensure that you review the script's contents and validate its source before executing it.</p>
+
+
 # Readme
 
 # Hinweis:
