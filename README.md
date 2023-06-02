@@ -1,4 +1,6 @@
-﻿Hinweis:
+# Readme
+
+# Hinweis:
 Bitte stellen Sie sicher, dass Sie PowerShell mit Administratorrechten ausführen, wenn Sie dieses Skript verwenden.
 
 Wenn Sie den Zugriff auf alles in 'For developers' deaktivieren möchten, deaktivieren Sie diese Richtlinieneinstellung.
@@ -15,7 +17,7 @@ Bitte stellen Sie sicher, dass Sie PowerShell mit Administratorrechten ausführe
 Bitte beachten Sie, dass diese Methode möglicherweise nicht funktioniert, wenn Ihre Organisation die Einstellungen streng verwaltet. 
 In diesem Fall müssen Sie sich an Ihre IT-Abteilung wenden.
 
-Notice:
+# Notice:
 Please make sure you are running PowerShell with administrator privileges when using this script.
 
 If you want to disable access to everything in 'For developers', disable this policy setting.
